@@ -14,7 +14,7 @@ export default function QueryProcessor(query: string): string {
   }
 
   if (lowerQuery.includes("name")) {
-    return "jnbain";
+    return "jordan";
   }
 
   // Addition questions: "what is X plus Y"
